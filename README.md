@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @CyberLegion
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CyberLegion/CyberLegion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Im a Normal hacker
+- 💞️ But modifies other's script for extra features
+- 📫 And that featured tools were sent to you through github
+- 🇮🇳 Im mr black
